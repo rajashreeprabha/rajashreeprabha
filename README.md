@@ -1,4 +1,8 @@
-# Hi 👋 I'm Rajashree
+<h1 align="center">Hi 👋, I'm Rajashree</h1>
+
+<h3 align="center">
+AI & Data Science Graduate | Python Developer | AI/ML Enthusiast | Software Engineer
+</h3>
 
 I'm a 2026 B.Tech graduate in Artificial Intelligence & Data Science from Chennai.
 
@@ -67,7 +71,11 @@ A personal portfolio website showcasing my projects, technical skills and achiev
 <a href="https://www.linkedin.com/in/rajashreeprabha">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+📧 Email: rajashreeprabha@gmail.com
 
+🔗 LinkedIn: https://www.linkedin.com/in/rajashreeprabha
+
+💻 Portfolio: https://your-portfolio-link.com
 <a href="https://github.com/rajashreeprabha">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
