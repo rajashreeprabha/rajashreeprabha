@@ -48,18 +48,17 @@ A personal portfolio website showcasing my projects, technical skills and achiev
 
 <p align="center">
 
-https://github-readme-stats-sigma-five.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark"/>
 
-https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=rajashreeprabha"/>
+<img src="https://streak-stats.demolab.com?user=rajashreeprabha&theme=github-dark"/>
 
 </p>
-
 ## 📫 Connect with Me
 
 <p align="left">
