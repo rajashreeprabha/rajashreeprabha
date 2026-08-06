@@ -200,7 +200,17 @@ Responsive portfolio website showcasing skills, projects and achievements.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajashreeprabha&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://img.shields.io/badge/🏆%20Hackathon-Winner-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🔐%20Cyber%20Security%20Quiz-Winner-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📊%20Power%20BI-Workshop-yellow?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/💻%20AI%20%26%20ML-Developer-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀%20Open%20Source-Contributor-green?style=for-the-badge"/>
 
 </div>
 
