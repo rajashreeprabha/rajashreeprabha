@@ -6,7 +6,7 @@
 AI & Data Science Graduate | Python Developer | AI/ML Enthusiast
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Graduate;Python+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Graduate;Python+Developer;Machine+Learning+Enthusiast;Building+AI+Powered+Applications"/>
 
 <br><br>
 
@@ -16,7 +16,7 @@ AI & Data Science Graduate | Python Developer | AI/ML Enthusiast
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Seeking%20Software%20Engineering%20Opportunities-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-Available-success?style=for-the-badge"/>
 
 </div>
 
@@ -27,9 +27,9 @@ AI & Data Science Graduate | Python Developer | AI/ML Enthusiast
 
 🎓 **B.Tech Artificial Intelligence & Data Science Graduate (2026)**
 
-💻 I am passionate about building intelligent applications using **Python, Machine Learning and modern web technologies**.
+💻 Passionate about building intelligent applications using **Python, Machine Learning and modern web technologies**.
 
-🤖 My interests include:
+🤖 Interested in:
 
 - Artificial Intelligence
 - Machine Learning
@@ -37,12 +37,13 @@ AI & Data Science Graduate | Python Developer | AI/ML Enthusiast
 - Backend Development
 - Full Stack Development
 
-🌱 Currently exploring:
+
+🌱 Currently learning:
 
 - Deep Learning
 - FastAPI
 - React
-- Large Language Models (LLMs)
+- Large Language Models
 
 
 🎯 Looking for opportunities as:
@@ -52,7 +53,7 @@ AI & Data Science Graduate | Python Developer | AI/ML Enthusiast
 - AI/ML Engineer
 
 
-✨ *"Building technology that transforms ideas into real-world solutions."*
+✨ *Building technology that creates real-world impact.*
 
 
 ---
@@ -104,7 +105,7 @@ AI & Data Science Graduate | Python Developer | AI/ML Enthusiast
 </p>
 
 
-## 🧰 Tools & Platforms
+## 🧰 Tools
 
 <p>
 
@@ -121,7 +122,7 @@ AI & Data Science Graduate | Python Developer | AI/ML Enthusiast
 
 ## 🤖 AI Contract Risk Analyzer
 
-An AI-powered document intelligence system that analyzes legal contracts, identifies risky clauses and extracts important information using Natural Language Processing.
+AI-powered legal document analysis system that identifies risky clauses and extracts important information using NLP techniques.
 
 **Tech Stack**
 
@@ -133,7 +134,7 @@ An AI-powered document intelligence system that analyzes legal contracts, identi
 
 ## 🎤 AI Mock Interview Analyzer
 
-An intelligent interview preparation platform that generates personalized questions, evaluates answers and provides AI-based feedback.
+AI-based interview preparation platform that generates questions, evaluates answers and provides intelligent feedback.
 
 **Tech Stack**
 
@@ -145,7 +146,7 @@ An intelligent interview preparation platform that generates personalized questi
 
 ## 🍽️ Canteen Food Ordering System
 
-A full-stack food ordering platform designed for college environments with online ordering, admin management and database integration.
+Full-stack food ordering platform with online ordering, admin management and database integration.
 
 **Tech Stack**
 
@@ -157,41 +158,11 @@ A full-stack food ordering platform designed for college environments with onlin
 
 ## 🌐 Personal Portfolio Website
 
-A responsive portfolio website showcasing my skills, projects and achievements.
+Responsive portfolio website showcasing skills, projects and achievements.
 
 **Tech Stack**
 
 `React` `JavaScript` `CSS`
-
-
-
----
-
-# 📊 GitHub Statistics
-
-
-<div align="center">
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashreeprabha&theme=tokyonight&hide_border=true"/>
-
-
-</div>
 
 
 
@@ -204,11 +175,35 @@ A responsive portfolio website showcasing my skills, projects and achievements.
 
 🏅 Winner - Cyber Security Awareness Quiz
 
-📊 Completed Power BI Workshop
+📊 Attended Power BI Workshop
+
 
 
 ---
 
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+
+<br><br>
+
+
+<img src="https://streak-stats.demolab.com?user=rajashreeprabha&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+
+---
 
 # 📈 Contribution Activity
 
