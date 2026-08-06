@@ -39,22 +39,35 @@ An intelligent interview preparation platform that generates technical interview
 A responsive web application that enables students to order food online while allowing administrators to manage menus and orders efficiently.
 
 **Tech Stack:** HTML, CSS, JavaScript, MySQL
-### 🍽️ Canteen Food Ordering System
+### 🌐 Portfolio Website
 
-A responsive web application that enables students to order food online while allowing administrators to manage menus and orders efficiently.
+A personal portfolio website showcasing my projects, technical skills and achievements with a clean and responsive design.
 
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
-## 📊 GitHub Stats
+**Tech Stack:** HTML, CSS, JavaScript, React
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajashreeprabha&theme=github-dark&hide_border=true"/>
+</p>
+
 ## 📫 Connect with Me
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashreeprabha&theme=tokyonight"/>
+
+<p align="left">
+<a href="mailto:rajashreeprabha@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajashreeprabha">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rajashreeprabha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
-
-📧 Email: **rajashreeprabha@gmail.com**
-
-💼 LinkedIn: **https://www.linkedin.com/in/rajashreeprabha**
