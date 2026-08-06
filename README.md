@@ -55,9 +55,7 @@ A personal portfolio website showcasing my projects, technical skills and achiev
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rajashreeprabha&theme=github-dark"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashreeprabha&theme=github-dark&hide_border=true"/>
 </p>
 ## 📫 Connect with Me
 
