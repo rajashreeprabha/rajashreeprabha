@@ -23,34 +23,6 @@ I'm currently looking for an entry-level opportunity as a Software Engineer, Pyt
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-**Programming Languages**
-- Python
-- JavaScript
-- SQL
-**Programming Languages**
-- Python
-- JavaScript
-- SQL
-
-**Web Development**
-- HTML
-- CSS
-- React
-- FastAPI
-
-**AI & Data Science**
-- Machine Learning
-- Natural Language Processing (NLP)
-- Pandas
-- NumPy
-- Scikit-learn
-
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Power BI
-
 ## 🚀 Featured Projects
 
 ### 🤖 AI Contract Risk Analyzer
