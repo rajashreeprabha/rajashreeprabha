@@ -1,92 +1,96 @@
-<h1 align="center">Hi 👋 I'm Rajashree</h1>
+<div align="center">
 
-<h3 align="center">
-AI & Data Science Graduate | Python Developer | Aspiring Software Engineer
-</h3>
+# Hi 👋 I'm Rajashree
+
+### AI & Data Science Graduate • Python Developer • AI/ML Enthusiast • Software Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Solutions+That+Matter;Always+Learning+Something+New"/>
+
+<img src="https://komarev.com/ghpvc/?username=rajashreeprabha&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</div>
+
+---
+
+# 👩‍💻 About Me
+
+Hello! I'm **Rajashree**, a B.Tech graduate in **Artificial Intelligence & Data Science** from Chennai.
+
+I enjoy building AI-powered applications and modern web solutions that solve practical problems. My interest lies in combining **Python**, **Machine Learning**, and **Web Development** to create meaningful software.
+
+During my academic journey, I worked on AI-based applications, full-stack projects and problem-solving tasks that strengthened both my technical knowledge and analytical thinking.
+
+I'm currently looking for an opportunity as a **Software Engineer**, **Python Developer**, or **AI/ML Engineer**, where I can learn from experienced professionals, contribute to impactful projects and continuously improve my skills.
+
+---
+
+# 🚀 What I'm Working On
+
+- 🤖 AI-based Web Applications
+- 🐍 Python Backend Development
+- ⚡ FastAPI REST APIs
+- 🧠 Machine Learning Projects
+- 🌐 Responsive React Applications
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-Passionate about building AI-powered applications and modern web solutions that solve real-world problems.
+<img src="https://skillicons.dev/icons?i=python,js,react,html,css,fastapi,mysql,git,github,vscode&perline=5"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🚀 Featured Projects
 
-Hello! I'm Rajashree, a B.Tech graduate in Artificial Intelligence & Data Science from Chennai.
+## 🤖 AI Contract Risk Analyzer
 
-I enjoy turning ideas into real applications using Python and modern web technologies. During my academic journey, I worked on AI-based projects, full-stack web applications and machine learning solutions that strengthened both my technical and problem-solving skills.
+Developed an AI-powered application that analyzes legal contracts and identifies potentially risky clauses using Machine Learning and NLP techniques.
 
-I'm someone who enjoys learning new technologies, exploring different approaches to solving problems and continuously improving my coding skills.
+**Tech Stack**
 
-I'm currently looking for an opportunity where I can start my career as a **Software Engineer, Python Developer or AI/ML Engineer**, contribute to meaningful projects and grow with an experienced team.
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-🐍 Python • JavaScript • SQL
-
-**Frontend**
-
-HTML • CSS • React
-
-**Backend**
-
-FastAPI
-
-**AI & Machine Learning**
-
-Machine Learning • NLP
-
-**Tools**
-
-Git • GitHub
+`Python` • `FastAPI` • `React` • `Machine Learning` • `NLP`
 
 ---
 
-## 🚀 Projects
+## 🎤 AI Mock Interview Analyzer
 
-### 🤖 AI Contract Risk Analyzer
+Designed an intelligent interview preparation platform that generates technical interview questions, evaluates candidate responses and provides AI-powered feedback.
 
-Built an AI-powered web application that analyzes legal contracts and identifies risky clauses using Machine Learning and Natural Language Processing.
+**Tech Stack**
 
-**Tech Stack:** Python, FastAPI, React, Machine Learning, NLP
-
----
-
-### 🎤 AI Mock Interview Analyzer
-
-Developed an intelligent interview preparation platform that generates technical interview questions, evaluates answers and provides AI-generated feedback.
-
-**Tech Stack:** Python, FastAPI, React, Machine Learning
+`Python` • `FastAPI` • `React` • `Machine Learning`
 
 ---
 
-### 🍽️ Canteen Food Ordering System
+## 🍽️ Canteen Food Ordering System
 
-Designed and developed a responsive food ordering system that allows students to order meals online while helping administrators manage menus and orders efficiently.
+Built a responsive food ordering system that allows students to place orders online while enabling administrators to manage menus and orders efficiently.
 
-**Tech Stack:** HTML, CSS, JavaScript, MySQL
+**Tech Stack**
 
----
-
-### 🌐 Personal Portfolio Website
-
-Created a responsive portfolio website to showcase my projects, technical skills and achievements with a clean and modern user interface.
-
-**Tech Stack:** HTML, CSS, JavaScript, React
+`HTML` • `CSS` • `JavaScript` • `MySQL`
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 Portfolio Website
+
+Created a clean and responsive personal portfolio website showcasing my technical skills, projects and achievements.
+
+**Tech Stack**
+
+`HTML` • `CSS` • `JavaScript` • `React`
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -96,20 +100,48 @@ Created a responsive portfolio website to showcase my projects, technical skills
 
 ---
 
-## 🌱 Currently Learning
+# 🏆 GitHub Trophies
 
-- Advanced Python
-- FastAPI Development
-- Machine Learning
-- Data Structures & Algorithms
-- Problem Solving
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rajashreeprabha&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+# 🌱 Currently Learning
 
-📧 **Email:** rajashreeprabha@gmail.com
+- Advanced Python
+- FastAPI
+- Machine Learning
+- Data Structures & Algorithms
+- System Design Basics
 
-💼 **LinkedIn:** https://www.linkedin.com/in/rajashreeprabha
+---
 
-💻 **GitHub:** https://github.com/rajashreeprabha
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:rajashreeprabha@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajashreeprabha">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rajashreeprabha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Every project is a step towards becoming a better engineer."
+
+Thanks for visiting my profile! 😊
+
+</div>
