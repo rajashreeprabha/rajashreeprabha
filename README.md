@@ -51,10 +51,10 @@ A responsive web application that enables students to order food online while al
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=tokyonight" height="170"/>
 </p>
 ## 📫 Connect with Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashreeprabha&theme=tokyonight"/>
+</p>
 
 📧 Email: **rajashreeprabha@gmail.com**
 
 💼 LinkedIn: **https://www.linkedin.com/in/rajashreeprabha**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashreeprabha&theme=tokyonight"/>
-</p>
