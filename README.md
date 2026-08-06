@@ -1,55 +1,47 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rajashree</h1>
 
-<h1>Hi 👋 I'm Rajashree</h1>
-
-<h3>
-Artificial Intelligence & Data Science Graduate | Python Developer | AI/ML Enthusiast
+<h3 align="center">
+AI & Data Science Graduate | Python Developer | AI/ML Enthusiast | Software Engineer
 </h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Exploring+Machine+Learning;Developing+Modern+Web+Solutions;Always+Learning+%26+Improving"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rajashreeprabha&style=for-the-badge&color=blue"/>
-
-</div>
+<p align="center">
+Passionate about building AI-powered applications, intelligent automation, and modern web solutions.
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Rajashree**.
-
-I am a B.Tech graduate in **Artificial Intelligence & Data Science** passionate about building intelligent applications and solving real-world problems using technology.
-
-My main interests include **Python Development, Machine Learning, AI Applications and Full Stack Development**.
-
-I enjoy transforming ideas into working solutions by combining programming, data and modern technologies.
-
-Currently, I am looking for an opportunity as a **Software Engineer / Python Developer / AI-ML Engineer** where I can contribute my skills, learn from experienced teams and grow as a developer.
+- 🎓 B.Tech in Artificial Intelligence & Data Science (2026)
+- 💻 Interested in Software Development, Python and AI/ML
+- 🌱 Currently improving my skills in FastAPI, React and Machine Learning
+- 🤝 Looking for Software Engineer, Python Developer and AI/ML Engineer opportunities
+- 🚀 Passionate about solving real-world problems using technology
 
 ---
 
-## 💡 Areas of Interest
+## 🛠️ Technical Skills
 
-```
-Artificial Intelligence
-Machine Learning
-Python Development
-Backend Development
-Web Applications
-Problem Solving
-```
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🛠️ Technology Stack
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<div align="center">
+### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=python,js,react,html,css,fastapi,mysql,git,github,vscode&perline=5"/>
-
-</div>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -57,96 +49,64 @@ Problem Solving
 
 ### 🤖 AI Contract Risk Analyzer
 
-An AI-powered application designed to analyze legal documents and identify risky clauses using Machine Learning and NLP techniques.
+AI-powered application that analyzes legal contracts and identifies risky clauses using Machine Learning and Natural Language Processing.
 
-**Technologies Used**
-
-`Python` `FastAPI` `React` `Machine Learning` `NLP`
+**Tech Stack:** Python • FastAPI • Machine Learning • NLP • React
 
 ---
 
 ### 🎤 AI Mock Interview Analyzer
 
-An intelligent interview preparation platform that helps candidates practice technical interviews by generating questions and providing AI-based feedback.
+AI-based interview preparation platform that generates technical interview questions, evaluates responses and provides intelligent feedback.
 
-**Technologies Used**
-
-`Python` `FastAPI` `React` `Machine Learning`
+**Tech Stack:** Python • FastAPI • Machine Learning • React
 
 ---
 
 ### 🍽️ Canteen Food Ordering System
 
-A web-based food ordering platform that allows students to order food online while helping administrators manage menus and orders efficiently.
+Responsive web application that enables students to order food online while allowing administrators to manage menus and orders.
 
-**Technologies Used**
-
-`HTML` `CSS` `JavaScript` `MySQL`
+**Tech Stack:** HTML • CSS • JavaScript • MySQL
 
 ---
 
-### 🌐 Personal Portfolio Website
+### 🌐 Portfolio Website
 
-A responsive portfolio website created to showcase my projects, skills and development journey.
+Modern responsive portfolio showcasing projects, technical skills and achievements.
 
-**Technologies Used**
-
-`HTML` `CSS` `JavaScript` `React`
+**Tech Stack:** HTML • CSS • JavaScript • React
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=github_dark&hide_border=true"/>
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashreeprabha&theme=github-dark&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Career Objective
 
-- Advanced Python Development
-- Machine Learning Algorithms
-- FastAPI Backend Development
-- Data Structures & Algorithms
-- AI Application Development
+I aspire to build scalable software and AI-driven applications that create real-world impact. I am eager to begin my career in a collaborative environment where I can continuously learn, contribute and grow as a Software Engineer.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-<div align="center">
+📧 **Email:** rajashreeprabha@gmail.com
 
-<a href="mailto:rajashreeprabha@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
-</a>
+💼 **LinkedIn:** https://www.linkedin.com/in/rajashreeprabha
 
-<a href="https://www.linkedin.com/in/rajashreeprabha">
-<img src="https://img.shields.io/badge/LinkedIn-Rajashree-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/rajashreeprabha">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Building today, learning every day, creating better solutions tomorrow."
-
-</div>
+💻 **GitHub:** https://github.com/rajashreeprabha
