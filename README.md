@@ -5,17 +5,12 @@
 <h3>
 AI & Data Science Graduate | Python Developer | AI/ML Enthusiast
 </h3>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Graduate;Python+Developer;Machine+Learning+Enthusiast;Building+AI+Powered+Applications"/>
-
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=rajashreeprabha&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/rajashreeprabha?label=Followers&style=for-the-badge&color=0A66C2"/>
-
 <br><br>
-
 <img src="https://img.shields.io/badge/Open%20To%20Work-Available-success?style=for-the-badge"/>
 
 </div>
