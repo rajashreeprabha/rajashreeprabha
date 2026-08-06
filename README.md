@@ -1,147 +1,152 @@
 <div align="center">
 
-# Hi 👋 I'm Rajashree
+<h1>Hi 👋 I'm Rajashree</h1>
 
-### AI & Data Science Graduate • Python Developer • AI/ML Enthusiast • Software Engineer
+<h3>
+Artificial Intelligence & Data Science Graduate | Python Developer | AI/ML Enthusiast
+</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Solutions+That+Matter;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Exploring+Machine+Learning;Developing+Modern+Web+Solutions;Always+Learning+%26+Improving"/>
 
-<img src="https://komarev.com/ghpvc/?username=rajashreeprabha&label=Profile+Views&color=0e75b6&style=flat"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rajashreeprabha&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-Hello! I'm **Rajashree**, a B.Tech graduate in **Artificial Intelligence & Data Science** from Chennai.
+Hi, I'm **Rajashree**.
 
-I enjoy building AI-powered applications and modern web solutions that solve practical problems. My interest lies in combining **Python**, **Machine Learning**, and **Web Development** to create meaningful software.
+I am a B.Tech graduate in **Artificial Intelligence & Data Science** passionate about building intelligent applications and solving real-world problems using technology.
 
-During my academic journey, I worked on AI-based applications, full-stack projects and problem-solving tasks that strengthened both my technical knowledge and analytical thinking.
+My main interests include **Python Development, Machine Learning, AI Applications and Full Stack Development**.
 
-I'm currently looking for an opportunity as a **Software Engineer**, **Python Developer**, or **AI/ML Engineer**, where I can learn from experienced professionals, contribute to impactful projects and continuously improve my skills.
+I enjoy transforming ideas into working solutions by combining programming, data and modern technologies.
 
----
-
-# 🚀 What I'm Working On
-
-- 🤖 AI-based Web Applications
-- 🐍 Python Backend Development
-- ⚡ FastAPI REST APIs
-- 🧠 Machine Learning Projects
-- 🌐 Responsive React Applications
+Currently, I am looking for an opportunity as a **Software Engineer / Python Developer / AI-ML Engineer** where I can contribute my skills, learn from experienced teams and grow as a developer.
 
 ---
 
-# 🛠 Tech Stack
+## 💡 Areas of Interest
 
-<p align="center">
+```
+Artificial Intelligence
+Machine Learning
+Python Development
+Backend Development
+Web Applications
+Problem Solving
+```
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,js,react,html,css,fastapi,mysql,git,github,vscode&perline=5"/>
-</p>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🤖 AI Contract Risk Analyzer
+### 🤖 AI Contract Risk Analyzer
 
-Developed an AI-powered application that analyzes legal contracts and identifies potentially risky clauses using Machine Learning and NLP techniques.
+An AI-powered application designed to analyze legal documents and identify risky clauses using Machine Learning and NLP techniques.
 
-**Tech Stack**
+**Technologies Used**
 
-`Python` • `FastAPI` • `React` • `Machine Learning` • `NLP`
-
----
-
-## 🎤 AI Mock Interview Analyzer
-
-Designed an intelligent interview preparation platform that generates technical interview questions, evaluates candidate responses and provides AI-powered feedback.
-
-**Tech Stack**
-
-`Python` • `FastAPI` • `React` • `Machine Learning`
+`Python` `FastAPI` `React` `Machine Learning` `NLP`
 
 ---
 
-## 🍽️ Canteen Food Ordering System
+### 🎤 AI Mock Interview Analyzer
 
-Built a responsive food ordering system that allows students to place orders online while enabling administrators to manage menus and orders efficiently.
+An intelligent interview preparation platform that helps candidates practice technical interviews by generating questions and providing AI-based feedback.
 
-**Tech Stack**
+**Technologies Used**
 
-`HTML` • `CSS` • `JavaScript` • `MySQL`
-
----
-
-## 🌐 Portfolio Website
-
-Created a clean and responsive personal portfolio website showcasing my technical skills, projects and achievements.
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript` • `React`
+`Python` `FastAPI` `React` `Machine Learning`
 
 ---
 
-# 📊 GitHub Statistics
+### 🍽️ Canteen Food Ordering System
 
-<p align="center">
+A web-based food ordering platform that allows students to order food online while helping administrators manage menus and orders efficiently.
+
+**Technologies Used**
+
+`HTML` `CSS` `JavaScript` `MySQL`
+
+---
+
+### 🌐 Personal Portfolio Website
+
+A responsive portfolio website created to showcase my projects, skills and development journey.
+
+**Technologies Used**
+
+`HTML` `CSS` `JavaScript` `React`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajashreeprabha&theme=github-dark&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🌱 Currently Exploring
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajashreeprabha&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Advanced Python
-- FastAPI
-- Machine Learning
+- Advanced Python Development
+- Machine Learning Algorithms
+- FastAPI Backend Development
 - Data Structures & Algorithms
-- System Design Basics
+- AI Application Development
 
 ---
 
-# 📫 Let's Connect
+## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:rajashreeprabha@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rajashreeprabha">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Rajashree-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/rajashreeprabha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Every project is a step towards becoming a better engineer."
-
-Thanks for visiting my profile! 😊
+### "Building today, learning every day, creating better solutions tomorrow."
 
 </div>
