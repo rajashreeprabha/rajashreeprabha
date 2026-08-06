@@ -48,9 +48,9 @@ A personal portfolio website showcasing my projects, technical skills and achiev
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true"/>
+https://github-readme-stats-sigma-five.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact"/>
+https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact
 
 </p>
 
