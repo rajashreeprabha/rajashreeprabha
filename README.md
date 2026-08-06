@@ -63,20 +63,8 @@ A personal portfolio website showcasing my projects, technical skills and achiev
 </p>
 ## 📫 Connect with Me
 
-<p align="left">
-<a href="mailto:rajashreeprabha@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rajashreeprabha">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 📧 Email: rajashreeprabha@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/rajashreeprabha
+💼 LinkedIn: https://www.linkedin.com/in/rajashreeprabha
 
-💻 Portfolio: https://your-portfolio-link.com
-<a href="https://github.com/rajashreeprabha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+💻 GitHub: https://github.com/rajashreeprabha
