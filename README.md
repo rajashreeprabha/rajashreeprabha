@@ -24,18 +24,26 @@ I'm currently looking for an entry-level opportunity as a Software Engineer, Pyt
 </p>
 
 ## 🚀 Featured Projects
-
 ### 🤖 AI Contract Risk Analyzer
-Developed a web application that analyzes legal contracts using Machine Learning and NLP to identify potential risks and improve contract review.
 
+An AI-powered web application that analyzes legal contracts and identifies risky clauses using Machine Learning and NLP techniques.
+
+**Tech Stack:** Python, FastAPI, Machine Learning, NLP, React
 ### 🎤 AI Mock Interview Analyzer
-Built an AI-powered interview platform that generates interview questions, evaluates responses and provides personalized feedback.
 
+An intelligent interview preparation platform that generates technical interview questions, evaluates candidate responses and provides AI-based feedback.
+
+**Tech Stack:** Python, FastAPI, Machine Learning, React
 ### 🍽️ Canteen Food Ordering System
-Designed and developed a web-based food ordering system with an admin dashboard for efficient order management.
 
-### 🌐 Portfolio Website
-Created a responsive portfolio website to showcase my projects, technical skills and achievements.
+A responsive web application that enables students to order food online while allowing administrators to manage menus and orders efficiently.
+
+**Tech Stack:** HTML, CSS, JavaScript, MySQL
+### 🍽️ Canteen Food Ordering System
+
+A responsive web application that enables students to order food online while allowing administrators to manage menus and orders efficiently.
+
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
 
 ## 📫 Connect with Me
 
