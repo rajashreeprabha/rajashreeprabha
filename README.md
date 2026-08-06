@@ -47,13 +47,17 @@ A personal portfolio website showcasing my projects, technical skills and achiev
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajashreeprabha&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashreeprabha&layout=compact"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajashreeprabha&theme=github-dark&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=rajashreeprabha"/>
+
 </p>
 
 ## 📫 Connect with Me
